@@ -20,6 +20,8 @@ solutions.**
 
 "A heatwave is defined as at least three consecutive days where the daily maximum temperature is in the top 10 percent of warmest temperatures for that calendar date" 
 
+![image](https://user-images.githubusercontent.com/27932394/66911272-e9665a00-f05b-11e9-9323-3a863adcbc10.png)
+
 **Types of Impact** 
 
 1. Direct Impacts 
@@ -35,16 +37,25 @@ solutions.**
     **Infrastructures** 
     
       C. Road surface melting 
+
+      D. Public transport infrastructure failure, e.g.train lines buckling
       
     **Supplies** 
     
-      D. Electricity consumption 
+      E. Electricity consumption 
       
-      E. Water consumption 
+      F. Water consumption 
       
     **Fauna and Flora** 
     
-      F. 
+      G. Reduced Crop yields due to damage to plants reproductive parts
+      
+      H. Livestock stress and deatch
+      
+      I. Mass death of temperature sensitive animals
+      
+      J. Coral Bleaching and damage to marine ecosystems
+   
       
  2. Indirect Impacts 
  
@@ -53,6 +64,10 @@ solutions.**
     A. Productivity decrease 
     
     B. Healthcare costs & insurance premiums increase
+    
+    C. Sporting events, e.g. the [2014 Australian Open](https://theconversation.com/a-year-of-records-the-human-role-in-2014s-wild-weather-50208)
+    
+    D. Tourism
     
     **Infrastructures** 
     
