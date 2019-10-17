@@ -32,8 +32,6 @@ human health.16 Other factors like higher concentrations of air pollution in urb
 areas can also aggravate the human health impact of extreme heat in cities.*"
 
 
-Interested in open data and Climate changes? Check [this repo](https://datahub.io/collections/climate-change) 
-
 You will find in this repository a range of resources (open datasets, reports, etc.) to help you buid the best well-informed data-centric solution for the Climathon. Each impact type described below has its own folder. The folder includes data sources, the format type and a brief description of what it contains. We also added a "Maps" section for you to use and present geospatial information. Finally, there is a "Climate" section with data and reports about the Climate, Climate changes and heatwaves. 
 
 
@@ -84,6 +82,8 @@ N. Sporting events, e.g. the [2014 Australian Open](https://theconversation.com/
 O. Tourism
     
 
+
+Interested in more open data and Climate Change? Check [this repo](https://datahub.io/collections/climate-change). 
     
     
     
