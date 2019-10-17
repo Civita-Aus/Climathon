@@ -1,5 +1,5 @@
 # 2019 Sydney Climathon
-Data repository for the Sydney Climathon of 2019
+Data repository for the [2019 Sydney Climathon](https://climate-kic.org.au/climathon-2/). 
 
 This repo compiles the multiple open datasets that will help you build a solution for the Sydney Climathon from the 25th to the 26th of October 2019. The datasets present here complement the Munich RE GIS datasets that will be available to you on the 25 and 26 of October. Because of the nature of this data, we will not release it this repo. 
 
