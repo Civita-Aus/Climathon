@@ -2,9 +2,9 @@
 Data repository for the Sydney Climathon of 2019
 
 This repo compiles the multiple open datasets that will help you build a solution for the Sydney Climathon from the 25th to the 26th of October 2019. 
-The datasets present here complete the Munich RE GIS datasets that will be available to you on the 25 and 26 of October. Because of the nature of this data, we will not release it this repo. 
+The datasets present here complement the Munich RE GIS datasets that will be available to you on the 25 and 26 of October. Because of the nature of this data, we will not release it this repo. 
 
-Each dataset or source is categorised by impact. Because your main objective is to decrease the impacts of next heatwaves, you want to understand how these impact might vary from suburb to suburb or over time. 
+Each dataset or source is categorised by impact. Because your main objective is to decrease the impacts of next heatwaves, you want to understand how these impacts might vary from suburb to suburb or over time. 
 While some datasets might be relevant to several types of impact, we selected what we estimated being the main impact. 
 
 Your objectives for this 24-hours hackathon is to: 
@@ -30,21 +30,23 @@ solutions.**
       
       B. Populations at risks: Elderly, infants, outdoor workers
       
-      C. Need for emergencies: emergency services readiness and capacity 
+      C. Need for emergency services: emergency services readiness and capacity 
       
     **Infrastructures** 
     
       C. Road surface melting 
+
+      D. Electricity infrastructure performance and failure
       
     **Supplies** 
     
-      D. Electricity consumption 
+      E. Electricity consumption 
       
-      E. Water consumption 
+      F. Water consumption 
       
     **Fauna and Flora** 
     
-      F. 
+      G. 
       
  2. Indirect Impacts 
  
