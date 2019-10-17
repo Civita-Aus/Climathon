@@ -22,6 +22,8 @@ Heatwaves can be notoriously tricky to define. For the purposes of the Climathon
 
 
 
+![image](https://user-images.githubusercontent.com/27932394/66911272-e9665a00-f05b-11e9-9323-3a863adcbc10.png)
+
 **Types of Impact** 
 
 1. Direct Impacts 
@@ -38,8 +40,11 @@ Heatwaves can be notoriously tricky to define. For the purposes of the Climathon
     
       C. Road surface melting 
 
+
+      D. Public transport infrastructure failure, e.g.train lines buckling
+
       D. Electricity infrastructure performance and failure
-      
+
     **Supplies** 
     
       E. Electricity consumption 
@@ -48,7 +53,15 @@ Heatwaves can be notoriously tricky to define. For the purposes of the Climathon
       
     **Fauna and Flora** 
     
-      G. 
+
+      G. Reduced Crop yields due to damage to plants reproductive parts
+      
+      H. Livestock stress and deatch
+      
+      I. Mass death of temperature sensitive animals
+      
+      J. Coral Bleaching and damage to marine ecosystems
+
       
  2. Indirect Impacts 
  
@@ -57,6 +70,10 @@ Heatwaves can be notoriously tricky to define. For the purposes of the Climathon
     A. Productivity decrease 
     
     B. Healthcare costs & insurance premiums increase
+    
+    C. Sporting events, e.g. the [2014 Australian Open](https://theconversation.com/a-year-of-records-the-human-role-in-2014s-wild-weather-50208)
+    
+    D. Tourism
     
     **Infrastructures** 
     
