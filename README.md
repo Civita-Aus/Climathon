@@ -18,7 +18,9 @@ solutions.**
 		
 **What is a heatwave?**
 
-"A heatwave is defined as at least three consecutive days where the daily maximum temperature is in the top 10 percent of warmest temperatures for that calendar date" 
+Heatwaves can be notoriously tricky to define. For the purposes of the Climathon we define them as "at least three consecutive days where the daily maximum temperature is in the top 10 percent of warmest temperatures for that calendar date". See the fantastic resource at [scorcher.org.au/about] for more information.
+
+
 
 **Types of Impact** 
 
@@ -26,7 +28,7 @@ solutions.**
 
     **People** 
     
-      A. Health issues: dehydration, heat exhaustion, heat stroke
+      A. Health issues: dehydration, heat exhaustion, heat stroke, death
       
       B. Populations at risks: Elderly, infants, outdoor workers
       
