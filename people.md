@@ -26,3 +26,10 @@ or [Summary Stats in Dwellings composition](https://quickstats.censusdata.abs.go
 **Why**: One key population at risk is people living on their own.
 
 
+4. [Household travel survey](https://data.nsw.gov.au/data/dataset/household-travel-survey)
+
+**Format**: CSV 
+
+**What**: Household travel journey: mode of transportation, distance, purpose. Also a [Tableau Public version](https://www.transport.nsw.gov.au/data-and-research/passenger-travel/surveys/household-travel-survey-hts/household-travel-survey-0) for summaries. 
+
+

@@ -2,9 +2,9 @@
 Data repository for the Sydney Climathon of 2019
 
 This repo compiles the multiple open datasets that will help you build a solution for the Sydney Climathon from the 25th to the 26th of October 2019. 
-The datasets present here complete the Munich RE GIS datasets that will be available to you on the 25 and 26 of October. Because of the nature of this data, we will not release it this repo. 
+The datasets present here complement the Munich RE GIS datasets that will be available to you on the 25 and 26 of October. Because of the nature of this data, we will not release it this repo. 
 
-Each dataset or source is categorised by impact. Because your main objective is to decrease the impacts of next heatwaves, you want to understand how these impact might vary from suburb to suburb or over time. 
+Each dataset or source is categorised by impact. Because your main objective is to decrease the impacts of next heatwaves, you want to understand how these impacts might vary from suburb to suburb or over time. 
 While some datasets might be relevant to several types of impact, we selected what we estimated being the main impact. 
 
 Your objectives for this 24-hours hackathon is to: 
@@ -18,7 +18,9 @@ solutions.**
 		
 **What is a heatwave?**
 
-"A heatwave is defined as at least three consecutive days where the daily maximum temperature is in the top 10 percent of warmest temperatures for that calendar date" 
+Heatwaves can be notoriously tricky to define. For the purposes of the Climathon we define them as "at least three consecutive days where the daily maximum temperature is in the top 10 percent of warmest temperatures for that calendar date". See the fantastic resource at [scorcher.org.au/about] for more information.
+
+
 
 ![image](https://user-images.githubusercontent.com/27932394/66911272-e9665a00-f05b-11e9-9323-3a863adcbc10.png)
 
@@ -28,18 +30,21 @@ solutions.**
 
     **People** 
     
-      A. Health issues: dehydration, heat exhaustion, heat stroke
+      A. Health issues: dehydration, heat exhaustion, heat stroke, death
       
       B. Populations at risks: Elderly, infants, outdoor workers
       
-      C. Need for emergencies: emergency services readiness and capacity 
+      C. Need for emergency services: emergency services readiness and capacity 
       
     **Infrastructures** 
     
       C. Road surface melting 
 
+
       D. Public transport infrastructure failure, e.g.train lines buckling
-      
+
+      D. Electricity infrastructure performance and failure
+
     **Supplies** 
     
       E. Electricity consumption 
@@ -48,6 +53,7 @@ solutions.**
       
     **Fauna and Flora** 
     
+
       G. Reduced Crop yields due to damage to plants reproductive parts
       
       H. Livestock stress and deatch
@@ -55,7 +61,7 @@ solutions.**
       I. Mass death of temperature sensitive animals
       
       J. Coral Bleaching and damage to marine ecosystems
-   
+
       
  2. Indirect Impacts 
  
