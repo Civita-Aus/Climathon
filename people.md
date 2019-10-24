@@ -32,4 +32,9 @@ or [Summary Stats in Dwellings composition](https://quickstats.censusdata.abs.go
 
 **What**: Household travel journey: mode of transportation, distance, purpose. Also a [Tableau Public version](https://www.transport.nsw.gov.au/data-and-research/passenger-travel/surveys/household-travel-survey-hts/household-travel-survey-0) for summaries. 
 
+5. [NSW Heat Vulnerability](https://datasets.seed.nsw.gov.au/dataset/nsw-heat-vulnerability-index-to-abs-statistical-area-level-1-2016)
+
+**Format**: Interractive Map 
+
+**What**: The NSW Heat Vulnerability Index (HVI) dataset identifies areas to monitor where populations in the Sydney Greater Metropolitan Area are more vulnerable to the adverse effects of urban heat, as of Summer 2015-2016.
 
