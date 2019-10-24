@@ -33,8 +33,9 @@ This section gathers multiple sources of data of the environment of Sydney and/o
 
 **What**: Precise Data of the water stream details in NSW. 
 
+6. [Greater Sydney urban vegetation](https://datasets.seed.nsw.gov.au/dataset/greater-sydney-region-urban-vegetation-cover-to-modified-mesh-block) 
 
+**Format**: Interractive Map 
 
-https://geo.seed.nsw.gov.au/Public_Viewer/index.html?viewer=Public_Viewer&locale=en-AU&runWorkflow=AppendLayerCatalog&CatalogLayer=SEED_Catalog.113.WNSW_Monitoring_Sites
+**What**: With this dataset, users can estimate tree canopy and vegetation cover in urban areas at many scales, such as mesh block, precinct, or local government area. Having current and accurate estimates of tree canopy and vegetation like this supports citizens and governments to reliably identify areas of tree canopy and confidently develop urban greening and heat island mitigation strategies and action.
 
-https://geo.seed.nsw.gov.au/Public_Viewer/index.html?viewer=Public_Viewer&locale=en-AU&runWorkflow=AppendLayerCatalog&CatalogLayer=SEED_Catalog.184.NSW%20Formation,SEED_Catalog.184.Plant%20Community%20Type,SEED_Catalog.184.NSW%20Class
