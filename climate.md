@@ -53,7 +53,10 @@ To give you more context, we also added non-quantitative sources.
 
 **What**: Report about the impact of heatwaves for NSW specifically. 
 
+8. [NSW Urban Heat Island](https://datasets.seed.nsw.gov.au/dataset/nsw-urban-heat-island-to-modified-mesh-block-2016) 
 
+**Format**: Interractive Map 
 
+**What**: The Urban Heat Island (UHI) dataset measures the effects of urbanisation on land surface temperatures across Sydney Greater Metropolitan Area for the Summer of 2015-2016.
 
 
