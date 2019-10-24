@@ -59,4 +59,9 @@ To give you more context, we also added non-quantitative sources.
 
 **What**: The Urban Heat Island (UHI) dataset measures the effects of urbanisation on land surface temperatures across Sydney Greater Metropolitan Area for the Summer of 2015-2016.
 
+9. [The rise of red zones of risk](https://mobile.abc.net.au/news/2019-10-23/the-suburbs-facing-rising-insurance-costs-from-climate-risk/11624108?pfmredir=sm&fbclid=IwAR1wNcCxEQ5Z1f0i1i0gM_cC_ltma9qaAfnGvXK1VhG2JNW63GUER8J-7KA) 
+
+**Format**: Article, webpage
+
+**What**: The suburbs facing rising insurance costs from climate risk. 
 
